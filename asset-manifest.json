@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VobList/static/css/main.47f1af30.chunk.css",
-    "main.js": "/VobList/static/js/main.34edef8b.chunk.js",
-    "main.js.map": "/VobList/static/js/main.34edef8b.chunk.js.map",
+    "main.js": "/VobList/static/js/main.03fa858c.chunk.js",
+    "main.js.map": "/VobList/static/js/main.03fa858c.chunk.js.map",
     "runtime-main.js": "/VobList/static/js/runtime-main.844d5918.js",
     "runtime-main.js.map": "/VobList/static/js/runtime-main.844d5918.js.map",
     "static/js/2.21f4cd29.chunk.js": "/VobList/static/js/2.21f4cd29.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.844d5918.js",
     "static/js/2.21f4cd29.chunk.js",
     "static/css/main.47f1af30.chunk.css",
-    "static/js/main.34edef8b.chunk.js"
+    "static/js/main.03fa858c.chunk.js"
   ]
 }
