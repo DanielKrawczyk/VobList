@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VobList/static/css/main.47f1af30.chunk.css",
+    "main.css": "/VobList/static/css/main.2333dc07.chunk.css",
     "main.js": "/VobList/static/js/main.cb46613f.chunk.js",
     "main.js.map": "/VobList/static/js/main.cb46613f.chunk.js.map",
     "runtime-main.js": "/VobList/static/js/runtime-main.844d5918.js",
@@ -8,13 +8,13 @@
     "static/js/2.21f4cd29.chunk.js": "/VobList/static/js/2.21f4cd29.chunk.js",
     "static/js/2.21f4cd29.chunk.js.map": "/VobList/static/js/2.21f4cd29.chunk.js.map",
     "index.html": "/VobList/index.html",
-    "static/css/main.47f1af30.chunk.css.map": "/VobList/static/css/main.47f1af30.chunk.css.map",
+    "static/css/main.2333dc07.chunk.css.map": "/VobList/static/css/main.2333dc07.chunk.css.map",
     "static/js/2.21f4cd29.chunk.js.LICENSE.txt": "/VobList/static/js/2.21f4cd29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.844d5918.js",
     "static/js/2.21f4cd29.chunk.js",
-    "static/css/main.47f1af30.chunk.css",
+    "static/css/main.2333dc07.chunk.css",
     "static/js/main.cb46613f.chunk.js"
   ]
 }
