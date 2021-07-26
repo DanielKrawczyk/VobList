@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/VobList/static/css/main.2333dc07.chunk.css",
-    "main.js": "/VobList/static/js/main.a562a256.chunk.js",
-    "main.js.map": "/VobList/static/js/main.a562a256.chunk.js.map",
+    "main.js": "/VobList/static/js/main.99d24aae.chunk.js",
+    "main.js.map": "/VobList/static/js/main.99d24aae.chunk.js.map",
     "runtime-main.js": "/VobList/static/js/runtime-main.844d5918.js",
     "runtime-main.js.map": "/VobList/static/js/runtime-main.844d5918.js.map",
-    "static/js/2.21f4cd29.chunk.js": "/VobList/static/js/2.21f4cd29.chunk.js",
-    "static/js/2.21f4cd29.chunk.js.map": "/VobList/static/js/2.21f4cd29.chunk.js.map",
+    "static/js/2.4a43da08.chunk.js": "/VobList/static/js/2.4a43da08.chunk.js",
+    "static/js/2.4a43da08.chunk.js.map": "/VobList/static/js/2.4a43da08.chunk.js.map",
     "index.html": "/VobList/index.html",
     "static/css/main.2333dc07.chunk.css.map": "/VobList/static/css/main.2333dc07.chunk.css.map",
-    "static/js/2.21f4cd29.chunk.js.LICENSE.txt": "/VobList/static/js/2.21f4cd29.chunk.js.LICENSE.txt"
+    "static/js/2.4a43da08.chunk.js.LICENSE.txt": "/VobList/static/js/2.4a43da08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.844d5918.js",
-    "static/js/2.21f4cd29.chunk.js",
+    "static/js/2.4a43da08.chunk.js",
     "static/css/main.2333dc07.chunk.css",
-    "static/js/main.a562a256.chunk.js"
+    "static/js/main.99d24aae.chunk.js"
   ]
 }
