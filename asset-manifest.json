@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/VobList/static/css/main.2333dc07.chunk.css",
-    "main.js": "/VobList/static/js/main.41fed55b.chunk.js",
-    "main.js.map": "/VobList/static/js/main.41fed55b.chunk.js.map",
+    "main.css": "/VobList/static/css/main.5441d60f.chunk.css",
+    "main.js": "/VobList/static/js/main.cc62e210.chunk.js",
+    "main.js.map": "/VobList/static/js/main.cc62e210.chunk.js.map",
     "runtime-main.js": "/VobList/static/js/runtime-main.844d5918.js",
     "runtime-main.js.map": "/VobList/static/js/runtime-main.844d5918.js.map",
-    "static/js/2.b6205343.chunk.js": "/VobList/static/js/2.b6205343.chunk.js",
-    "static/js/2.b6205343.chunk.js.map": "/VobList/static/js/2.b6205343.chunk.js.map",
+    "static/js/2.fc8edcbd.chunk.js": "/VobList/static/js/2.fc8edcbd.chunk.js",
+    "static/js/2.fc8edcbd.chunk.js.map": "/VobList/static/js/2.fc8edcbd.chunk.js.map",
     "index.html": "/VobList/index.html",
-    "static/css/main.2333dc07.chunk.css.map": "/VobList/static/css/main.2333dc07.chunk.css.map",
-    "static/js/2.b6205343.chunk.js.LICENSE.txt": "/VobList/static/js/2.b6205343.chunk.js.LICENSE.txt"
+    "static/css/main.5441d60f.chunk.css.map": "/VobList/static/css/main.5441d60f.chunk.css.map",
+    "static/js/2.fc8edcbd.chunk.js.LICENSE.txt": "/VobList/static/js/2.fc8edcbd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.844d5918.js",
-    "static/js/2.b6205343.chunk.js",
-    "static/css/main.2333dc07.chunk.css",
-    "static/js/main.41fed55b.chunk.js"
+    "static/js/2.fc8edcbd.chunk.js",
+    "static/css/main.5441d60f.chunk.css",
+    "static/js/main.cc62e210.chunk.js"
   ]
 }
