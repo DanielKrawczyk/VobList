@@ -1,0 +1,57 @@
+.list {
+
+    &-search {
+        text-align: center;
+        margin: 2rem 0;
+        @include flex(row nowrap, center, center);
+
+        h1 {
+            margin-right: 1rem;
+        }
+
+        input {
+            width: 30vw;
+            padding: 0.5rem;
+            border-radius: 20px;
+        }
+    }
+
+    &-count {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    &-vobs {
+        width: 80vw;
+        padding: 1rem;
+        @include marginAuto;
+
+        &_item {
+            padding: 1rem 0;
+            border-bottom: 1px solid #000;
+            @include flex(row nowrap, space-between, center);
+
+            &_code {
+
+                i {
+                    margin-right: 1rem;
+                    &:hover {
+                        cursor: pointer;
+                        color: gray;
+                    }
+                }
+            }
+
+            &_title {
+
+                i {
+                    
+                    &:hover {
+                        cursor: pointer;
+                        color: gray;
+                    }
+                }
+            }
+        }
+    }
+}

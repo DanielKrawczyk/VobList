@@ -1,0 +1,46 @@
+.add {
+    width: 40vw;
+    height: auto;
+    text-align: center;
+    margin: 10vh auto;
+    font-family: sans-serif;
+
+    &-title {
+        margin: 10vh auto;
+        padding: 0.5rem 5rem;
+        border-bottom: 2px solid rgb(255, 90, 0);
+    }
+
+    &-select {
+        width: 20vw;
+        margin: 0 auto;
+    }
+
+    &-btns {
+        width: 20vw;
+        margin: 0 auto;
+    }
+    
+    &-warning {
+        width: 20vw;
+        margin: 0 auto;
+
+        p {
+            margin: 2vh 0;
+            font-size: 12px;
+            font-style: italic;
+
+            &.hidden {
+                opacity: 0;
+            }
+
+            &.warning {
+                color: red;
+            }
+
+            &.success {
+                color: green;
+            }
+        }
+    }
+}

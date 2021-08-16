@@ -1,0 +1,78 @@
+[
+    {
+        "code":"FIRE_COMPLETE_A0.TGA",
+        "title":"płomień świecy"
+    },
+    {
+        "code":"FIRE_MEDIUM.pfx",
+        "title":"ogień pochodni"
+    },
+    {
+        "code":"FIRE_SMOKE.pfx",
+        "title":"dym"
+    },
+    {
+        "code":"OWODWFALL_STONE_A0.TGA",
+        "title":"odprysk wodny przy wodospadzie"
+    },
+    {
+        "code":"GROUNDFOG1_OUTDOOR_HIGH.pfx",
+        "title":"mgła"
+    },
+    {
+        "code":"FLIES.pfx",
+        "title":"muchy"
+    },
+    {
+        "code":"DECAL_MISC_SPIDERWEBHANG.TGA",
+        "title":"pajęczyna"
+    },
+    {
+        "code":"CRDISLIME.TGA",
+        "title":"pajęczyna"
+    },
+    {
+        "code":"ZFLARE6.TGA",
+        "title":"efekt świetlny"
+    },
+    {
+        "code":"FIRE_HOT.PFX",
+        "title":"ogień duży"
+    },
+    {
+        "code":"FIRE_MEDIUM.PFX",
+        "title":"ogień średni"
+    },
+    {
+        "code":"FIRE.PFX",
+        "title":"ogień duży"
+    },
+    {
+        "code":"CAULDRON_BUBBLES.pfx",
+        "title":"bąbelki w kotle"
+    },
+    {
+        "code":"GLOWWORMS_SMALL.pfx",
+        "title":"świetliki"
+    },
+    {
+        "code":"TREASURE_GLOW_CHILD.pfx",
+        "title":"błyszczący skarb"
+    },
+    {
+        "code":"TREASURE_GLOW.pfx",
+        "title":"błyszczący skarb"
+    },
+    {
+        "code":"WATERVAPOUR.pfx",
+        "title":"para wodna"
+    },
+    {
+        "code":"COALGLOW.pfx",
+        "title":"rozżarzony węgiel"
+    },
+    {
+        "code":"LAVAFOG_BIG.pfx",
+        "title":"czerwona mgła"
+    }
+]

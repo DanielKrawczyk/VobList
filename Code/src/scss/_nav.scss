@@ -1,0 +1,22 @@
+nav {
+    width: 100%;
+
+    .links {
+        width: 80%;
+        padding: 1rem 0;
+        @include marginAuto;
+        @include flex(row nowrap, space-between, center);
+
+        a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+            border-bottom: 1px solid white;
+
+            &:hover {
+                color: gray;
+                border-color: gray;
+            }
+        }
+    }
+}
