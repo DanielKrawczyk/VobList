@@ -5,3 +5,5 @@ Here is a totally useless page for all users, unless you are using Zengin Engine
 Link to the page: https://danielkrawczyk.github.io/VobList
 
 Important note: In order to use 100% of the app you need to run a server available in "NodeServer" folder on local port 3333!
+
+Also visit my portfolio: http://www.danielsweb.pl/
